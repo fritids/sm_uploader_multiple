@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SM Uploader Multiple\n"
+"POT-Creation-Date: 2013-08-08 17:45+0900\n"
+"PO-Revision-Date: 2013-08-08 17:46+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\ls\\fs\\urbanport\\wp\\wp-content"
+"\\plugins\\sm-uploader-multiple\\lang\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../sm-uploader-multiple.php:45 ../sm-uploader-multiple.php:46
+msgid "SM Uploader Multiple"
+msgstr ""
+
+#: ../sm-uploader-multiple.php:53
+msgid "SM Uploader Multiple Setting"
+msgstr ""
+
+#: ../sm-uploader-multiple.php:53 ../admin/sm_setting.php:27
+msgid "Display settings"
+msgstr "表示設定"
+
+#: ../admin/list.php:28
+msgid "Are you sure?"
+msgstr "本当に削除してもいいですか？"
+
+#: ../admin/list.php:29
+msgid "Canceled."
+msgstr "キャンセルしました。"
+
+#: ../admin/list.php:42 ../admin/upload.php:46
+msgid "Gallery image uploader"
+msgstr ""
+
+#: ../admin/list.php:46
+msgid "Your Galleries"
+msgstr "ギャラリー一覧"
+
+#: ../admin/list.php:92
+msgid "Edit Gallery"
+msgstr "ギャラリーの編集"
+
+#: ../admin/list.php:93
+msgid "Delete Gallery"
+msgstr "ギャラリーの削除"
+
+#: ../admin/list.php:98
+msgid "Last Update : "
+msgstr "更新日 : "
+
+#: ../admin/list.php:105
+msgid "Add New Gallery"
+msgstr "ギャラリーを追加"
+
+#: ../admin/sm_setting.php:16 ../admin/upload.php:39
+msgid "Success!!"
+msgstr "成功しました！"
+
+#: ../admin/sm_setting.php:31
+msgid "Settings"
+msgstr "設定"
+
+#: ../admin/sm_setting.php:37
+#, fuzzy
+msgid "Display Title"
+msgstr "ギャラリーのタイトル"
+
+#: ../admin/sm_setting.php:41
+msgid "UL tag id"
+msgstr "ulタグのid"
+
+#: ../admin/sm_setting.php:45
+msgid "UL tag class"
+msgstr "ulタグのclass"
+
+#: ../admin/sm_setting.php:47
+msgid "If multiple class needed, split it by space."
+msgstr "複数クラスをつける場合は半角スペースで区切って下さい。"
+
+#: ../admin/sm_setting.php:54 ../admin/upload.php:122
+msgid "Save Changes"
+msgstr "保存"
+
+#: ../admin/upload.php:50
+msgid "Add images"
+msgstr "画像を追加"
+
+#: ../admin/upload.php:73
+msgid "Gallery Title"
+msgstr "ギャラリーのタイトル"
+
+#: ../admin/upload.php:87
+msgid "Title"
+msgstr "タイトル"
+
+#: ../admin/upload.php:91
+msgid "URL"
+msgstr "URL"
+
+#: ../admin/upload.php:96
+msgid "Image"
+msgstr "画像"
+
+#: ../admin/upload.php:97
+msgid "Select image"
+msgstr "画像を選択して下さい"
+
+#: ../admin/upload.php:108
+msgid "Add image"
+msgstr "画像を追加"
+
+#: ../admin/upload.php:109
+msgid "Remove image"
+msgstr "画像を削除"
+
+#: ../admin/upload.php:123
+msgid "Updeted contents."
+msgstr "更新されました。"
+
+#: ../admin/upload.php:124
+msgid "Some contents updated. It will delete if you leave this page."
+msgstr ""
+"更新されたコンテンツがあります。このページを離れると、変更は削除されます。"
+
+#: ../admin/upload.php:128
+msgid "Back to the List."
+msgstr "一覧に戻る"

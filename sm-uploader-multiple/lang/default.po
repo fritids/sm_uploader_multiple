@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SM Uploader Multiple\n"
+"POT-Creation-Date: 2013-08-08 16:20+0900\n"
+"PO-Revision-Date: 2013-08-08 16:23+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\ls\\fs\\urbanport\\wp\\wp-content"
+"\\plugins\\sm-uploader-multiple\\lang\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../sm-uploader-multiple.php:45 ../sm-uploader-multiple.php:46
+msgid "SM Uploader Multiple"
+msgstr ""
+
+#: ../admin/list.php:28
+msgid "Are you sure?"
+msgstr ""
+
+#: ../admin/list.php:29
+msgid "Canceled."
+msgstr ""
+
+#: ../admin/list.php:42 ../admin/upload.php:46
+msgid "Gallery image uploader"
+msgstr ""
+
+#: ../admin/list.php:46
+msgid "Your Galleries"
+msgstr ""
+
+#: ../admin/list.php:86
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../admin/list.php:87
+msgid "Delete Gallery"
+msgstr ""
+
+#: ../admin/list.php:92
+msgid "Last Update : "
+msgstr ""
+
+#: ../admin/list.php:99
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../admin/upload.php:39
+msgid "Success!!"
+msgstr ""
+
+#: ../admin/upload.php:50
+msgid "Add images"
+msgstr ""
+
+#: ../admin/upload.php:73
+msgid "Gallery Title"
+msgstr ""
+
+#: ../admin/upload.php:87
+msgid "Title"
+msgstr ""
+
+#: ../admin/upload.php:91
+msgid "URL"
+msgstr ""
+
+#: ../admin/upload.php:96
+msgid "Image"
+msgstr ""
+
+#: ../admin/upload.php:97
+msgid "Select image"
+msgstr ""
+
+#: ../admin/upload.php:108
+msgid "Add image"
+msgstr ""
+
+#: ../admin/upload.php:109
+msgid "Remove image"
+msgstr ""
+
+#: ../admin/upload.php:122
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/upload.php:123
+msgid "Updeted contents."
+msgstr ""
+
+#: ../admin/upload.php:124
+msgid "Some contents updated. It will delete if you leave this page."
+msgstr ""
+
+#: ../admin/upload.php:128
+msgid "Back to the List."
+msgstr ""

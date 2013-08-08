@@ -1,0 +1,153 @@
+#galleryList div.img img{
+max-width: 80px;
+max-height: 80px;
+margin: 5px;
+border: 1px solid #cccccc;
+}
+
+#galleryList ul.gal:after{
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+
+#galleryList ul.gal li{
+float: left;
+height: 220px;
+}
+
+#galleryList ul.gal li div.inner{
+border:1px solid #dfdfdf;
+background: #f9f9f9;
+width: 160px;
+height: 160px;	
+position: relative;
+margin: 5px;
+padding: 5px;
+}
+
+#galleryList .garea{
+background: #f1f1f1;
+width: 160px;
+height: 160px;
+position: absolute;
+top:5px;
+left:5px;
+}
+
+#galleryList .garea img{
+float: left;
+width: 80px;
+height: 80px;
+}
+
+#galleryList .garea img.addnew{
+margin: 40px;
+}
+
+#galleryList .menus{
+position: absolute;
+background:#fff;
+top:5px;
+left:5px;
+width: 160px;
+height: 160px;
+filter: alpha(opacity=0);
+-moz-opacity:0;
+opacity:0;
+}
+
+#galleryList .menus.add{
+background: #f1f1f1;
+text-align: center;
+padding: 70px 0;
+height: 20px;
+}
+
+#galleryList .menus ul.child {
+margin: 60px 20px 20px 20px;    
+}
+
+#galleryList .menus ul.child li{
+border: none;
+background: #fff;
+margin: 0;
+padding: 0px;
+float: left;
+text-align: center;
+width: 60px;
+height: 20px;
+}
+
+#galleryList .menus ul.child li a:hover{
+filter: alpha(opacity=80);
+-moz-opacity:0.8;
+opacity:0.8;	
+}
+
+#galleryList .title{
+position: absolute;
+top: 178px;
+left: 5px;
+font-weight: bold;
+margin: 0;
+width: 160px;
+text-align: center;
+font-size: 12px;
+}
+
+#galleryList .update{
+position: absolute;
+top: 195px;
+left: 5px;
+font-style: italic;
+margin: 0;
+width: 160px;
+text-align: center;
+font-size: 12px;
+}
+
+
+#galleryArea div.img img{
+max-width: 80px;
+max-height: 80px;
+margin: 5px;
+border: 1px solid #cccccc;
+}
+
+#galleryArea ul li{
+border:1px solid #dfdfdf;
+background-color: #f9f9f9;
+margin: 5px;
+padding: 5px;
+cursor: move;
+}
+
+#galleryArea .addimg{
+text-align: right;
+}
+
+#galleryArea .addimg ul li{
+border:none;
+display: inline;
+} 
+
+#galleryArea .addimg ul li a img{
+margin: 0 5px 0 0;
+vertical-align: middle;
+}
+
+#galleryArea table{
+width: 100%;
+}
+
+#galleryList .shortcode{
+position: absolute;
+top: 104px;
+left: 0;
+text-align: center;
+width: 100%;
+background: #ddd;
+}
